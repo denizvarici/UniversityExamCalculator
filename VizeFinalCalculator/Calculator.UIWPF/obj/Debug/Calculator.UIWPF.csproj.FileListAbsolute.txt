@@ -1,0 +1,15 @@
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\obj\Debug\Calculator.UIWPF.csprojAssemblyReference.cache
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\obj\Debug\MainWindow.g.cs
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\obj\Debug\App.g.cs
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\obj\Debug\Calculator.UIWPF_MarkupCompile.cache
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\obj\Debug\Calculator.UIWPF_MarkupCompile.lref
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\bin\Debug\Calculator.UIWPF.exe.config
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\bin\Debug\Calculator.UIWPF.exe
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\bin\Debug\Calculator.UIWPF.pdb
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\obj\Debug\MainWindow.baml
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\obj\Debug\Calculator.UIWPF.g.resources
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\obj\Debug\Calculator.UIWPF.Properties.Resources.resources
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\obj\Debug\Calculator.UIWPF.csproj.GenerateResource.cache
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\obj\Debug\Calculator.UIWPF.csproj.CoreCompileInputs.cache
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\obj\Debug\Calculator.UIWPF.exe
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UIWPF\obj\Debug\Calculator.UIWPF.pdb

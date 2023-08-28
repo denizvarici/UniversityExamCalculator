@@ -1,0 +1,6 @@
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.Business\bin\Debug\Calculator.Business.dll
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.Business\bin\Debug\Calculator.Business.pdb
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.Business\obj\Debug\Calculator.Business.csprojAssemblyReference.cache
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.Business\obj\Debug\Calculator.Business.csproj.CoreCompileInputs.cache
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.Business\obj\Debug\Calculator.Business.dll
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.Business\obj\Debug\Calculator.Business.pdb

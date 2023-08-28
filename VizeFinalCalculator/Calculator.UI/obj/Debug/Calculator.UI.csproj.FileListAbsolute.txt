@@ -1,0 +1,13 @@
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UI\bin\Debug\Calculator.UI.exe.config
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UI\bin\Debug\Calculator.UI.exe
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UI\bin\Debug\Calculator.UI.pdb
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UI\bin\Debug\Calculator.Business.dll
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UI\bin\Debug\Calculator.Business.pdb
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UI\obj\Debug\Calculator.UI.csprojAssemblyReference.cache
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UI\obj\Debug\Calculator.UI.Form1.resources
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UI\obj\Debug\Calculator.UI.Properties.Resources.resources
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UI\obj\Debug\Calculator.UI.csproj.GenerateResource.cache
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UI\obj\Debug\Calculator.UI.csproj.CoreCompileInputs.cache
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UI\obj\Debug\Calculator.UI.csproj.CopyComplete
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UI\obj\Debug\Calculator.UI.exe
+C:\Users\excalibur\Documents\Visual Studio 2017\Projects\VizeFinalCalculator\Calculator.UI\obj\Debug\Calculator.UI.pdb
