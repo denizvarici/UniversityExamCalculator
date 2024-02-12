@@ -1,2 +1,2 @@
 # VizeFinalCalculator
-VizeFinalCalculator app for calculating your marks
+VizeFinalCalculator form app for calculating university marks.
